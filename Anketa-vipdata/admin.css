@@ -1,0 +1,18 @@
+﻿body {
+    background-image: linear-gradient(to right,#0F2027,#203A43,#2c5364);
+    color:white;
+}
+#title {
+    font-family: 'Orbitron', sans-serif;
+    font-size:30px;
+}
+#popisanketalabel {
+    font-size: 20px;
+}
+.buttonListaAnketa {
+    cursor:pointer;
+    outline:none;
+}
+#info {
+    font-size: 12px;
+}
